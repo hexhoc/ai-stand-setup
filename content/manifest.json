@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "version": "1.3.1",
+  "files": [
+    {
+      "source": "content/rules/architecture.md",
+      "target": ".opencode/rules/architecture.md",
+      "sha256": "b9b043a3896cf2055d3be2198f786c81c8b3c4e9ad03146cacdce8e6f30d7842"
+    },
+    {
+      "source": "content/rules/code-review.md",
+      "target": ".opencode/rules/code-review.md",
+      "sha256": "f0624a6bfbb8b30a86b952b9e16fbad831ec9a7db25924b3e5e6bd92528d3c3f"
+    },
+    {
+      "source": "content/rules/coding-standards.md",
+      "target": ".opencode/rules/coding-standards.md",
+      "sha256": "396b2cd6c9d99eda6e920746633521cf14cab9490b0ac4b768972496b43bddc3"
+    },
+    {
+      "source": "content/rules/forms.md",
+      "target": ".opencode/rules/forms.md",
+      "sha256": "c34c462f7c9d6b85fa24168e219f2eb1704181ce98793d3d54fe270f7025a3f3"
+    },
+    {
+      "source": "content/rules/integrations.md",
+      "target": ".opencode/rules/integrations.md",
+      "sha256": "3090cbc6b19264f9bd2c30f959e03668718b5176dd7ac0627dfff25cda417a1f"
+    },
+    {
+      "source": "content/rules/metadata.md",
+      "target": ".opencode/rules/metadata.md",
+      "sha256": "16b40ad2b05c3ebbff7b09c86f11306ccae8382c1ac2ef2ca12cd84f5c56fcc1"
+    },
+    {
+      "source": "content/rules/module-structure.md",
+      "target": ".opencode/rules/module-structure.md",
+      "sha256": "2718eb247c9c0e836deb052e42d046bbeaa620249ef2ca239dd879c7d79bab0d"
+    },
+    {
+      "source": "content/rules/query-design.md",
+      "target": ".opencode/rules/query-design.md",
+      "sha256": "5945512460d23f1ea06dfe82620bfff53bf7352a95af2439180d5585af06c1bd"
+    },
+    {
+      "source": "content/rules/source-search.md",
+      "target": ".opencode/rules/source-search.md",
+      "sha256": "d1388374275d558f0524266e0e31bf0d1182d30224f04f0e7b554621ae3f5841"
+    },
+    {
+      "source": "content/rules/systematic-debugging.md",
+      "target": ".opencode/rules/systematic-debugging.md",
+      "sha256": "48a0fe7e33ac91c18a355fb15a46d0e072021bac4111cfd92a3ca6103ed763dc"
+    },
+    {
+      "source": "content/rules/testing.md",
+      "target": ".opencode/rules/testing.md",
+      "sha256": "968e3021fcec409fd97cdb1fe87045a2ecd4267519725074e62cf130586dd07d"
+    },
+    {
+      "source": "content/rules/verification.md",
+      "target": ".opencode/rules/verification.md",
+      "sha256": "491ca9c68a45bd3522f733cd48a408242e3ba1edd0d657e80df6c7cf4099288f"
+    },
+    {
+      "source": "content/commands/yaxunit-test.md",
+      "target": ".opencode/commands/yaxunit-test.md",
+      "sha256": "cc2e0d62dd270112e40e0d14d148a343aa7b3e56949d726dc1691c1da1eef218"
+    }
+  ]
+}
