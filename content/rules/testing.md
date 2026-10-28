@@ -40,6 +40,8 @@ category: quality
 
 Команда запуска из skill `db-run` завершается раньше тестов и не определяет их результат. Успех подтверждают только свежий `exit-code.txt` со значением `0`, корректный jUnit без `failures`/`errors` и ожидаемое ненулевое число тестов. При таймауте проверить лог и процесс текущего запуска, не запускать второй прогон и не завершать чужие процессы.
 
-Формат конфигурации: <https://bia-technologies.github.io/yaxunit/docs/getting-started/run/configuration>.
+## Конфигурация
 
-Структурное управление тонким клиентом без веб-публикации текущим набором не поддерживается.
+По умолчанию использовать logging.level = info
+
+Формат конфигурации: <https://bia-technologies.github.io/yaxunit/docs/getting-started/run/configuration>. 
