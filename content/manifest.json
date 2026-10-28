@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.3",
+  "version": "1.3.4",
   "files": [
     {
       "source": "content/rules/architecture.md",
@@ -35,7 +35,7 @@
     {
       "source": "content/rules/query-design.md",
       "target": ".opencode/rules/query-design.md",
-      "sha256": "f3e3dd0aed24930b703c9faaabb37e963ef6154d3c4c1a2e23d1b6b92259db4e"
+      "sha256": "a37959a30902f3788ed3240528c4cdbf7bf5c32be312579a41683fee05834429"
     },
     {
       "source": "content/rules/source-search.md",
