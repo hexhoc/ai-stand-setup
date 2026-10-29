@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "version": "1.4.0",
+  "version": "1.4.1",
   "features": [],
   "files": [
     {
@@ -97,7 +97,7 @@
       "source": "content/rules/testing.md",
       "target": ".opencode/rules/testing.md",
       "requires": [],
-      "sha256": "6524ec8b90d3f1d91dd309f29a3a5190c33f506cc0712672e8505be774133f5c"
+      "sha256": "405e4bd74a0422ae500af9f1fa11a0181f318708698041ece45002067e8a2b60"
     },
     {
       "source": "content/rules/transactions.md",
