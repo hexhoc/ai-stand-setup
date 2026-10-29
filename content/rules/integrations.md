@@ -1,8 +1,6 @@
 ---
 description: Входящие и исходящие интеграции 1С — контракты, транспорт, сериализация, повторы и проверка
-applies_when: ["integration"]
 route: HTTP- или Web-сервис, REST/SOAP, очередь, webhook либо файловый обмен
-requires: []
 depends_on: ["source-search", "verification"]
 ---
 

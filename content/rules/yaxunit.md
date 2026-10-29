@@ -1,8 +1,6 @@
 ---
 description: Именование тестов YAxUnit, подготовка расширений и запуск со свежими проверяемыми артефактами
-applies_when: ["yaxunit"]
 route: Создание или запуск тестов YAxUnit, включая команду /yaxunit-test
-requires: ["yaxunit"]
 depends_on: ["testing"]
 ---
 

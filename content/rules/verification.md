@@ -1,8 +1,6 @@
 ---
 description: Проверка BSL, XML, влияния изменений и поведения с явными границами статического анализа и runtime
-applies_when: ["bsl", "xml", "api-change"]
 route: Изменение BSL, XML или экспортного API; дополнительно проверки по профильным правилам
-requires: []
 depends_on: []
 ---
 

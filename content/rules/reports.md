@@ -1,8 +1,6 @@
 ---
 description: Отчёты и СКД — источники, параметры, ресурсы, настройки, внешние ERF и проверка результата
-applies_when: ["report"]
 route: Создание или изменение отчёта, СКД, варианта отчёта или внешнего отчёта ERF
-requires: []
 depends_on: ["query-design", "verification"]
 ---
 

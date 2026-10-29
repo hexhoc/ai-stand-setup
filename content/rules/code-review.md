@@ -1,8 +1,6 @@
 ---
 description: Ревью кода и архитектуры только для чтения с доказательствами, серьёзностью замечаний и остаточными рисками
-applies_when: ["review", "architecture-review"]
 route: Явный запрос ревью заданного diff, файлов или готового архитектурного решения
-requires: []
 depends_on: ["source-search", "verification"]
 ---
 

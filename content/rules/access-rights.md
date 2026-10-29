@@ -1,8 +1,6 @@
 ---
 description: Роли и права 1С — минимальные разрешения, новые объекты
-applies_when: ["rights"]
 route: Анализ или изменение ролей, прав, настройка доступности нового объекта или поля
-requires: []
 depends_on: ["source-search", "verification"]
 ---
 

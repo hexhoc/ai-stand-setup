@@ -1,8 +1,6 @@
 ---
 description: Изменение метаданных 1С — создание и регистрация объектов, права, подсистемы и командный интерфейс
-applies_when: ["metadata"]
 route: Создание, удаление, переименование объекта метаданных или изменение его структуры
-requires: []
 depends_on: ["access-rights", "architecture", "source-search", "verification"]
 ---
 

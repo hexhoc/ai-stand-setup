@@ -1,8 +1,6 @@
 ---
 description: Правила управляемых форм — Form.xml, Form.Module.bsl, клиент-серверное взаимодействие, права, события, асинхронность, компоновка и проверка
-applies_when: ["form"]
 route: Анализ или изменение управляемой формы; для Form.Module.bsl добавить маршрут BSL
-requires: []
 depends_on: ["verification"]
 ---
 

@@ -1,8 +1,6 @@
 ---
 description: Общие требования к согласованным тестам, UI-сценариям и достоверности артефактов запуска
-applies_when: ["test"]
 route: Создание или запуск тестов, включая UI-проверки через web-test
-requires: []
 depends_on: ["verification"]
 ---
 
