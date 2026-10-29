@@ -1,12 +1,16 @@
 ---
-description: Scoped 1C source search and impact analysis across the main configuration and extensions using BSL Language Server and native search
-alwaysApply: false
-category: tooling
+description: Поиск исходников и зависимостей в основной конфигурации и расширениях через BSL LS и встроенный поиск
+applies_when: ["source-search", "api-change"]
+route: Поиск реализации или анализ влияния, включая изменение экспортного API
+requires: []
+depends_on: []
 ---
 
 # Поиск по исходникам 1С
 
 ## Маршрут
+
+Перед семантическим поиском проверить фактический каталог MCP. В версиях с `list_workspace_folders` получить URI проекта; отсутствующую папку зарегистрировать через `register_workspace_folder` при разрешённом управлении индексом. В старых версиях проверить MCP roots. Для API-инструментов передавать `workspaceFolder`, если его требует установленная версия. В режиме ревью регистрацию выполняет основной агент до передачи задачи.
 
 1. Известен BSL-файл — `document_symbols`, затем чтение узкого диапазона.
 2. Известна позиция символа — `definition`, `find_references`, `call_hierarchy`, `hover` или `type_at_position`.
