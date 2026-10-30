@@ -35,7 +35,6 @@
 - Явный запрос ревью заданного diff, файлов или готового архитектурного решения — `.opencode/rules/code-review.md`. Также прочитать: `.opencode/rules/source-search.md`, `.opencode/rules/verification.md`.
 - Изменение BSL, включая модули форм и код тестов — `.opencode/rules/coding-standards.md`. Также прочитать: `.opencode/rules/verification.md`.
 - Анализ или изменение управляемой формы; для Form.Module.bsl добавить маршрут BSL — `.opencode/rules/forms.md`. Также прочитать: `.opencode/rules/verification.md`.
-- HTTP- или Web-сервис, REST/SOAP, очередь, webhook либо файловый обмен — `.opencode/rules/integrations.md`. Также прочитать: `.opencode/rules/source-search.md`, `.opencode/rules/verification.md`.
 - Создание, удаление, переименование объекта метаданных или изменение его структуры — `.opencode/rules/metadata.md`. Также прочитать: `.opencode/rules/architecture.md`, `.opencode/rules/source-search.md`, `.opencode/rules/verification.md`.
 - Добавление методов или областей, создание либо реструктуризация модуля — `.opencode/rules/module-structure.md`.
 - Создание или изменение печатной формы, табличного документа либо макета MXL — `.opencode/rules/printing.md`. Также прочитать: `.opencode/rules/verification.md`.

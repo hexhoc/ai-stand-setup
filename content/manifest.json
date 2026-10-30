@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "version": "1.4.1",
+  "version": "1.4.4",
   "features": [],
   "files": [
     {
@@ -25,97 +25,91 @@
       "source": "content/rules/access-rights.md",
       "target": ".opencode/rules/access-rights.md",
       "requires": [],
-      "sha256": "4ca6c183b5784c6ea556047f72a3e9cdbc7a0da343052b9e50ddd7f271572eec"
+      "sha256": "a7014a54119edfb5a5c6feeb96f91eeb89528b9df322f87e724d00765136b4ea"
     },
     {
       "source": "content/rules/architecture.md",
       "target": ".opencode/rules/architecture.md",
       "requires": [],
-      "sha256": "028b3ac1742bfd0f8cfcbf84669a611c8d8f5da110203807e56c446960f9633d"
+      "sha256": "112b2a5cb39f68a382a9828c209a6672b9e2434f1fd5dfa6f946b99044fdef96"
     },
     {
       "source": "content/rules/code-review.md",
       "target": ".opencode/rules/code-review.md",
       "requires": [],
-      "sha256": "8dabdd888240dc649a2221a326751cd4d0ee78db5997cf39c91f35009e166856"
+      "sha256": "aa1a9328d39c6dd28db15a8bd7b7a88ec693b32f0f75c8e66399a2d8d4da2317"
     },
     {
       "source": "content/rules/coding-standards.md",
       "target": ".opencode/rules/coding-standards.md",
       "requires": [],
-      "sha256": "9645546510c9c374d657bcde0c735a5a6fd0fd3c85bac696b8479e50ebf8b7d2"
+      "sha256": "ba87e40fae1a299b363e4d60404a7ddee93390593f8ce7f1e6438e75e36a0fa4"
     },
     {
       "source": "content/rules/forms.md",
       "target": ".opencode/rules/forms.md",
       "requires": [],
-      "sha256": "8104e0818ce1be82f4532757e862db45cadc88f5363af68c6358261e56a93a57"
-    },
-    {
-      "source": "content/rules/integrations.md",
-      "target": ".opencode/rules/integrations.md",
-      "requires": [],
-      "sha256": "386a785caeab9dee2f7c6bd2a15e144e5df20afa127637c352e4fcc16309fb27"
+      "sha256": "2d818d1531017258cfea598a1fbebbecadfad0deb8958140e1bdfa8980eae91d"
     },
     {
       "source": "content/rules/metadata.md",
       "target": ".opencode/rules/metadata.md",
       "requires": [],
-      "sha256": "edd2558da3c1d5c1341ea62fa14f9a147678036f7fa8192bb0307bc5efd36b0c"
+      "sha256": "caca4460a04a9caae066a7e24eea7035499ef9d114d0faf0ccc1d3aef7f1294a"
     },
     {
       "source": "content/rules/module-structure.md",
       "target": ".opencode/rules/module-structure.md",
       "requires": [],
-      "sha256": "0c6f734c481370d76b34b1919ee505ed23e4c17b6ed46ad846b64214e51b235d"
+      "sha256": "813935527f0cadd9d4965585515256b2ee41f5d55b3f96a5a839ec79f89386c4"
     },
     {
       "source": "content/rules/printing.md",
       "target": ".opencode/rules/printing.md",
       "requires": [],
-      "sha256": "2a377eda9e993f15147eab74c2da425b41732addf575ab7f50973cf08ede25f2"
+      "sha256": "09c2925242a9871d89fa1049a74d3b1d366d3ea5617ec3e9001e39462da1df33"
     },
     {
       "source": "content/rules/query-design.md",
       "target": ".opencode/rules/query-design.md",
       "requires": [],
-      "sha256": "828db1c70e80d2bfc4dd06a5f5ae74c9ad389e40d089cbb37f204363739ddae6"
+      "sha256": "33a48535d5a7e1f38ff4d04438a6c8462f6e77e651ba30490c75e69f9ca68ae4"
     },
     {
       "source": "content/rules/reports.md",
       "target": ".opencode/rules/reports.md",
       "requires": [],
-      "sha256": "6eebf162203537f862e92567ca9c21608f37f3594a1c5ea66926bc493821ecf8"
+      "sha256": "58b1bc3de380ff259aa71f9e368a5d7e29813c7bc6e1ee32a5dd9de5b526dedb"
     },
     {
       "source": "content/rules/source-search.md",
       "target": ".opencode/rules/source-search.md",
       "requires": [],
-      "sha256": "6c600fd20fa9d9785d17e4612a067d00c6da917b313de743ffe2ac7d8b765c21"
+      "sha256": "a5449683ca9a523a91ab0e0d43dcd526270fdb4625b819ac847ec168037a5858"
     },
     {
       "source": "content/rules/testing.md",
       "target": ".opencode/rules/testing.md",
       "requires": [],
-      "sha256": "405e4bd74a0422ae500af9f1fa11a0181f318708698041ece45002067e8a2b60"
+      "sha256": "9f5bbf8ae194e7da5818033dc8c069ca998daaa1e9d2a2451a8fd353dfb08ba2"
     },
     {
       "source": "content/rules/transactions.md",
       "target": ".opencode/rules/transactions.md",
       "requires": [],
-      "sha256": "95b411f4fa542198bf7e4bb557d6ddd00861c3368f5d1a70c81e58b0fa11c912"
+      "sha256": "58cee68c1ef0b954f0b27e834f943f40ee81b5b3d5270b3c7335558811f6b6d2"
     },
     {
       "source": "content/rules/verification.md",
       "target": ".opencode/rules/verification.md",
       "requires": [],
-      "sha256": "e46f6f4abda4d2d2fa590ea15bcecb4f82a5dfcfdb1e683c520c80bc59d3f973"
+      "sha256": "607f2a4ecaf292025de530de6344cffd7a5a275dd4c00811791560ca0f2b40c6"
     },
     {
       "source": "content/rules/yaxunit.md",
       "target": ".opencode/rules/yaxunit.md",
       "requires": [],
-      "sha256": "6feef69a2a79b5661954c42dc759b6b9168f2e77b7a8b1f542e4b9ab1652264b"
+      "sha256": "0aead47e8febd964a4c1f6af53ff0f5aab269294a7ed92c277a18e7046c84b48"
     }
   ]
 }
